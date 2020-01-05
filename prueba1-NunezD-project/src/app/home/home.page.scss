@@ -1,0 +1,250 @@
+ion-content
+{
+    --background: #010212;
+}
+
+ion-slides
+{
+    background-color: #010212;
+    height: 100%;
+    width: 90%;
+    background-image: url(../../assets/img/invader3.jpg);
+    background-repeat: repeat-y;
+    background-size: 100%;
+    background-position: 0px;
+}
+
+.swiper-slide
+{
+    display: block;
+    margin-bottom: 10%;
+}
+
+
+
+.block1
+{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+.block2
+{
+    height: 100%;
+    width: 100%;
+}
+
+.nombres
+{
+    text-align:left;
+    font-family: 'Press Start 2P', cursive;
+    color: #0EFF02;
+}
+
+.apellidos
+{
+    text-align: left;
+    font-family: 'Press Start 2P', cursive;
+    color: #0EFF02;
+}
+
+.title-whoami
+{    
+    font-family: 'Press Start 2P', cursive;
+    color: #0EFF02;
+}
+
+.title-contacto
+{    
+    font-family: 'Press Start 2P', cursive;
+    color: #0EFF02;
+}
+
+.image-user
+{
+    height: 95px;
+    float: right;
+    
+}
+
+.block3
+{
+    height: 100%;
+    width: 100%;
+    
+}
+
+.block4
+{
+    height: 100%;
+    width: 100%;
+    border-right: 2px solid #0EFF02;
+
+}
+
+.descripcion > p
+{
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Jura', sans-serif;
+
+    color: #FFF100;
+}
+
+.contactos > p
+{
+    font-size: 13px;
+    text-align: center;
+    font-family: 'Jura', sans-serif;
+    color: #FFF100;
+}
+
+.intereses
+{
+    width:100%;
+    height: 100%;
+    background-color: #0EFF02;
+    
+}
+
+.intereses > h6
+{
+    text-align: center;
+    font-family: 'Jura', sans-serif;
+    color: #FFF100;
+}
+
+.block5
+{
+    height: 100%;
+    width: 100%;
+    border-right: 2px solid #0EFF02;
+    
+}
+.intereses-title > h3
+{    
+    height: 170px;
+    font-family: 'Press Start 2P', cursive;
+    color: #0EFF02;
+}
+
+.block6
+{
+    height: 100%;
+    width: 100%;
+}
+
+.descripcion-intereses > p
+{
+    font-size: 15px;
+    text-align: left;
+    font-family: 'Jura', sans-serif;
+    color: #FFF100;
+}
+
+.block7
+{
+    width: 100%;
+    height: 100%;
+}
+
+.block8
+{
+    width: 100%;
+    height: 100%;
+    border: #0EFF02 5px solid;
+}
+
+.lenguajes > h4
+{
+    font-family: 'Press Start 2P', cursive;
+    color: #0EFF02;
+}
+
+
+.lenguaje-programacion > p
+{
+    font-family: 'Press Start 2P', cursive;
+    text-align: left;
+    color: #FFF100;
+    font-size: 17px;
+}
+
+.block9
+{
+    width: 100%;
+    height: 100%;
+}
+
+.sgbd > h4
+{
+    font-family: 'Press Start 2P', cursive;
+    color: #0EFF02;
+}
+
+.block11
+{
+    width: 100%;
+    height: 100%;
+    border: #0EFF02 5px solid;
+}
+
+.gestorBD > p
+{
+    font-family: 'Press Start 2P', cursive;
+    text-align: left;
+    color: #FFF100;
+    font-size: 17px;
+}
+
+.block10
+{
+   width: 100%;
+   height: 100%;
+   border: #0EFF02 5px solid;
+}
+
+.experiencia-title>h2
+{
+    font-family: 'Press Start 2P', cursive;
+    color: #0EFF02;
+}
+
+.experiencia > p
+{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    color: #FFF100;
+    font-size: 15px;
+}
+
+.trabajo-title>h2
+{
+    font-family: 'Press Start 2P', cursive;
+    color: #0EFF02;
+}
+
+.block13
+{
+    width: 100%;
+    height: 100%;
+    border: #0EFF02 5px solid;
+}
+
+.trabajo>p
+{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    color: #FFF100;
+    font-size: 17px;
+}
+
+
+
+
+
+
+
+
